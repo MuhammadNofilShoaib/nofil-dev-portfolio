@@ -12,7 +12,7 @@ const Footer = () => {
     <div className='max-w-[1440px] mx-auto '>
       <div className="flex flex-col justify-center items-center gap-10 h-[400px] border-t border-[#EEEEEE]/10">
 
-          <div className="flex justify-center items-center gap-10 md:gap-20">
+          <div className="flex justify-center items-center gap-7 md:gap-20">
             <Link href="#home" className='capitalize font-normal text-[18px] hover:text-[#00adb5] hover:bg-black/10 p-2 rounded-lg duration-300 ease-in-out'>home</Link>
             <Link href="#about" className='capitalize font-normal text-[18px] hover:text-[#00adb5] hover:bg-black/10 p-2 rounded-lg duration-300 ease-in-out'>about me</Link>
             <Link href="#projects" className='capitalize font-normal text-[18px] hover:text-[#00adb5] hover:bg-black/10 p-2 rounded-lg duration-300 ease-in-out'>Projects</Link>

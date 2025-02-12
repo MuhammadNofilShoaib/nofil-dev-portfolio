@@ -26,7 +26,7 @@ const Header = () => {
   }
 
   return (
-    <div
+    <div 
       className={`max-w-[1600px] mx-auto fixed top-4 left-1/2 transform -translate-x-1/2 z-50 rounded-2xl backdrop-blur-md  transition-all duration-300 ${
         isScrolled ? "w-[85%] h-[60px] bg-[#393E46]/60" : "w-[90%] h-[132px] bg-[#393E46]/30"
       }`}
