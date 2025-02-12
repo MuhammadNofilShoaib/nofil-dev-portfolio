@@ -34,7 +34,7 @@ const Header = () => {
       <div className="flex justify-between items-center h-full px-6 md:px-8">
         {/* Logo */}
         <div
-          className={`font-bold italic transition-all duration-300 ${
+          className={`font-bold italic transition-all duration-300 text-white ${
             isScrolled ? "text-[18px]" : "text-[24px]"
           }`}
         >
