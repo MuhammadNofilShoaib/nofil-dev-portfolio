@@ -38,7 +38,7 @@ const Footer = () => {
           </div>
 
           <div className="flex justify-center items-center">
-            <Link href="mailto:nofilshoaib@gmail.com" className='tracking-widest underline underline-offset-4 italic text-[#00adb5] flex justify-center items-end gap-4 hover:text-white duration-300 ease-in-out'><span><CiMail className='scale-150'/></span> nofilshoaib@gmail.com</Link>
+            <Link href="mailto:shoaib123sami@gmail.com" className='tracking-widest underline underline-offset-4 italic text-[#00adb5] flex justify-center items-end gap-4 hover:text-white duration-300 ease-in-out'><span><CiMail className='scale-150'/></span> shoaib123sami@gmail.com</Link>
           </div>
 
       </div>
